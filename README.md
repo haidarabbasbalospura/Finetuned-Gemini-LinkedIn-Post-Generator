@@ -21,8 +21,8 @@ A Streamlit web application that generates professional LinkedIn posts using Goo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/haidarabbasbalospura/Finetuned-Gemini-Linkdin-Post-Generator.git
-cd linkedin-post-generator
+git clone https://github.com/haidarabbasbalospura/Finetuned-Gemini-LinkedIn-Post-Generator.git
+cd Finetuned-Gemini-LinkedIn-Post-Generator
 ```
 
 2. Install required packages:
